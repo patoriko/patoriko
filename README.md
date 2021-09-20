@@ -1,8 +1,4 @@
 
-![Patoriko's GitHub stats](https://github-readme-stats.vercel.app/api?username=patoriko&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patoriko&layout=compact&theme=dark)](https://github.com/patoriko/github-readme-stats)
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
