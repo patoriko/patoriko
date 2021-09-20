@@ -3,6 +3,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patoriko&layout=compact&theme=dark)](https://github.com/patoriko/github-readme-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **patoriko/patoriko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
