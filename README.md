@@ -1,7 +1,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C#           1 hr 3 mins     ██████████████▒░░░░░░░░░░   57.85 % 
+Python       32 mins         ███████▒░░░░░░░░░░░░░░░░░   29.04 % 
+Other        11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Git Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 <!--END_SECTION:waka-->
 
